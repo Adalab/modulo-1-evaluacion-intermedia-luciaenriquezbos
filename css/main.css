@@ -37,4 +37,13 @@
   background-color: #3cdbc0;
   height: 100vh;
   color: #ffffff;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  width: 8em;
+  text-align: center;
 }
