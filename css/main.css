@@ -8,3 +8,33 @@
   box-sizing: border-box;
   font-family: "Rubik", sans-serif;
 }
+
+.header {
+  width: 100%;
+  display: flex;
+  position: fixed;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+  background-color: white;
+}
+
+.menu {
+  text-transform: uppercase;
+
+  padding-top: 10px;
+  padding-bottom: 13px;
+  font-size: 16px;
+}
+
+.menu-item {
+  color: #4a4a4a;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.main {
+  background-color: #3cdbc0;
+  height: 100vh;
+  color: #ffffff;
+}
